@@ -1,5 +1,5 @@
  MediTrack Clinic Management System
-
+ 
  1. Project Overview
 
 A simple Java-based Clinic Management System to manage patients, doctors, appointments, and billing.
@@ -95,4 +95,7 @@ AppointmentStatus status = AppointmentStatus.CONFIRMED;
 
  8. Author
 
-Swarupa Deshpande
+Swarupa kulkarni
+
+9. Version
+v1.0 - Initial Project Setup
